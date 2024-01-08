@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DAAFDBA8-C31F-480C-B9CC-D4C5D64BF2C0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD3C19EB-3F76-4BF2-BF0D-A17B615C4F62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChekRiteTestApp/CatApiService.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "-getCatBreedImageLinkById:full:completionHandler:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AD3C19EB-3F76-4BF2-BF0D-A17B615C4F62 - 2dff17d2d799830a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__65-[CatApiService getCatBreedImageLinkById:full:completionHandler:]_block_invoke"
+                  moduleName = "ChekRiteTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romanseredenko/GIT/ChekRiteTestApp/ChekRiteTestApp/CatApiService.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "314">
+               </Location>
+               <Location
+                  uuid = "AD3C19EB-3F76-4BF2-BF0D-A17B615C4F62 - 2dff17d2d799830a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__65-[CatApiService getCatBreedImageLinkById:full:completionHandler:]_block_invoke"
+                  moduleName = "ChekRiteTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romanseredenko/GIT/ChekRiteTestApp/ChekRiteTestApp/CatApiService.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "AD3C19EB-3F76-4BF2-BF0D-A17B615C4F62 - 2dff17d2d79983eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__65-[CatApiService getCatBreedImageLinkById:full:completionHandler:]_block_invoke"
+                  moduleName = "ChekRiteTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romanseredenko/GIT/ChekRiteTestApp/ChekRiteTestApp/CatApiService.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "819">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "5B6057B3-33EC-48AF-B352-67073326A0D8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
